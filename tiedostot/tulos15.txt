@@ -1,0 +1,10 @@
+Palautuksia tuli yhteensä 15, 4 eri tehtävään.
+Viikkotehtäviin tuli keskimäärin 3 palautusta.
+Eniten palautuksia, 9, tuli viikkotehtävään L03-T3.
+Vähiten palautuksia, 1, tuli viikkotehtävään L14-T3.
+
+Tehtävä;Lukumäärä
+L01-T1;2
+L01-T2;3
+L03-T3;9
+L14-T3;1
